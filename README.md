@@ -62,6 +62,7 @@ El objetivo de este análisis es identificar **pagos fraudulentos** y **no fraud
 10. **Matriz de correlación**  
 11. **transformación de datos** (normalización, encoding de variables categóricas).
 12. **Modelado y optimización de hiperparametros**
+13. **Evaluación de los modelos**
 
 ---
 
