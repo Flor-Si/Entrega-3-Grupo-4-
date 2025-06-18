@@ -8,7 +8,7 @@
 ### 👥 Integrantes Grupo 4
 - Carpio , Vanessa
 - Huber , Anne Kathrin
-- Siarri , Florencia
+- Siarri , Maria Florencia
 
 ---
 
@@ -66,7 +66,8 @@ El objetivo de este análisis es identificar **pagos fraudulentos** y **no fraud
 
 ## 🚀 Metodología
 - **Lenguaje y librerías**:  
-  - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
+  - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`,RandomForestClassifier,scipy,sklearn.ensemble;xgboost
+    
 - **Pasos**:  
   1. Preprocesamiento y limpieza  
   2. Ingeniería de características  
