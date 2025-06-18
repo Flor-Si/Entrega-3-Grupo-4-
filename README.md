@@ -61,12 +61,13 @@ El objetivo de este análisis es identificar **pagos fraudulentos** y **no fraud
 9. Boxplot y **histogramas**  
 10. **Matriz de correlación**  
 11. **transformación de datos** (normalización, encoding de variables categóricas).
+12. **Modelado y optimización de hiperparametros**
 
 ---
 
 ## 🚀 Metodología
-- **Lenguaje y librerías**:  
-  - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`,`RandomForestClassifier`,`scipy`,`sklearn.ensemble`;`xgboost`
+- **Lenguaje , librerías y modelos **:  
+  - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`,`RandomForestClassifier`,`scipy`,`sklearn.ensemble`,`XGboost`,
     
 - **Pasos**:  
   1. Preprocesamiento y limpieza  
