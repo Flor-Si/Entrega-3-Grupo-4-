@@ -1,13 +1,14 @@
-# Pre-Entrega-3 (Grupo N° 4) 
+# Pre-Entrega-3 
 
 # 🏦 Trabajo Final: Ingenia-2025  
 ## Detección de fraudes en transacciones bancarias
 
 ---
 
-### 👥 Integrantes Grupo 8
-- Vanessa Carpio  
-- Nancy Lopez  
+### 👥 Integrantes Grupo 4
+- Carpio , Vanessa
+- Huber , Anne Kathrin
+- Siarri , Florencia
 
 ---
 
