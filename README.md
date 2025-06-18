@@ -31,7 +31,7 @@ El objetivo de este análisis es identificar **pagos fraudulentos** y **no fraud
 
 ## 🗄️ Descripción del Dataset
 - **Origen**: Kaggle  
-- **Tamaño**: CSV de más de 400 MB (se aloja en GitLab para facilitar la descarga).  
+- **Tamaño**: CSV de más de 493 MB (se aloja en GitLab para facilitar la descarga).  
 - **Variables (11):**  
   1. `step` – unidad de tiempo (1 hora; 744 pasos = 31 días).  
   2. `type` – tipo de transacción (`CASH-IN`, `CASH-OUT`, `DEBIT`, `PAYMENT`, `TRANSFER`).  
